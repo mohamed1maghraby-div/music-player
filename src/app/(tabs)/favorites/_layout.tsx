@@ -11,7 +11,7 @@ const FavoritesScreenLayout = () => {
 					name="index"
 					options={{
 						...StackScreenWithSearchBar,
-						headerTitle: 'Songs',
+						headerTitle: 'Favorites',
 					}}
 				/>
 			</Stack>
